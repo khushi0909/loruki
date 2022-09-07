@@ -102,9 +102,10 @@ code,pre{
     content: '';
     position:absolute;
     height:100px;
-    bottom:-80px;
+    bottom:140px;
     right:0;
     left:0;
+    /* background-color: #d9534f; */
     background-color:#fff;
     transform: skewY(-2.0deg);
     /* -webkit-transform: skewY(-2.0deg);
@@ -162,8 +163,8 @@ code,pre{
 
 }
 .stats-heading{
-    margin:auto;
-
+    margin:50px;
+    
     max-width:500px;
 }
 .stats .grid h3{
