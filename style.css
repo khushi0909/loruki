@@ -108,11 +108,11 @@ code,pre{
     /* background-color: #d9534f; */
     background-color:#fff;
     transform: skewY(-2.0deg);
-    /* -webkit-transform: skewY(-2.0deg);
+    -webkit-transform: skewY(-2.0deg);
 
     -moz-transform: skewY(-2.0deg);
 
-   -ms-transform: skewY(-2.0deg); */
+   -ms-transform: skewY(-2.0deg);
    /* background-color: #eeb7dc ; */
 
 }
